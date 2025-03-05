@@ -18,7 +18,7 @@ Video: *INSERT LINK (3 min or less)
 3. Label original code as human generated, label Copilot code as AI generated
 4. Separate train, test, validation sets as 75%, 15%, 10% respectively
 5. Tokenize all code and create features for our ML model to use
-6. Run ML models (ex: random forest)
+6. Run ML models (ex:  Random Forest (RF), XGBoost, and Support Vector Machine (SVM) )
 7. Gather precision, recall, accuracy, and f1-score for each model
 
 **Application**: Detecting AI Generated Code can help in many different scenarios. For example, in academia, instructors can use this tool to know if code written by a student is plagarized or not.
