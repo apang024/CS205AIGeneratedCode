@@ -21,4 +21,4 @@ Video: *INSERT LINK (3 min or less)
 6. Run ML models (ex:  Random Forest (RF), XGBoost, and Support Vector Machine (SVM) )
 7. Gather precision, recall, accuracy, and f1-score for each model
 
-**Application**: Detecting AI Generated Code can help in many different scenarios. For example, in academia, instructors can use this tool to know if code written by a student is plagarized or not.
+**Application**: Detecting AI Generated Code can help in many different scenarios. For example, in academia, instructors can use this tool to know if code written by a student is plagiarized or not.
